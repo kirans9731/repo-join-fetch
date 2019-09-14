@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: repo.join.fetch
+---
+testFramework: junit
+sourceLanguage: java
